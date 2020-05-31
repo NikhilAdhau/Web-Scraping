@@ -6,7 +6,7 @@ It scrapes the the list of popular movies and series based on the  variety of ge
 The project extracts Title, Year, Rating, Duration.
 It also extracts the link a to trailer and a link to a more info page.
 
-The extracted data is then stored in a sqlite database, where you can then sort movies or series based on rating or year.
+The extracted data is then stored in a sqlite database (List.db), where you can then sort movies or series based on rating or year.
 
 # Requirements
 You need to install scrapy first. 
